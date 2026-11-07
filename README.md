@@ -33,7 +33,10 @@ place, with your agency's branding. Self-host it in one command, or use our clou
 | Scheduled report delivery, anomaly alerts, Google Sheets export, client portals | Not built |
 
 ## Quick start
-
+Hostinger VPS KVM2	
+```
+https://www.hostinger.com/cart?product=vps%3Avps_kvm_2&period=12&referral_type=cart_link&REFERRALCODE=aidatahouse&referral_id=019bd221-ccf9-71b5-b517-49d2d540cdb1
+```
 One command on a Linux box with Docker:
 
 ```bash
